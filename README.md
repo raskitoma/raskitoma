@@ -7,4 +7,5 @@
 
 
 # My Stats
-[![Raskitoma's github stats](https://github-readme-stats.vercel.app/api?username=raskitoma&show_icons=true&count_private=true&theme=radical&hide=stars)]
+[![Raskitoma's github stats](https://github-readme-stats.vercel.app/api?username=raskitoma&show_icons=true&count_private=true)]
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raskitoma&theme=light&count_private=true&theme=radical)](https://github.com/raskitoma)
