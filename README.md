@@ -7,7 +7,5 @@
 
 Contacts and more info @ https://support@raskitoma.com
 
-<!---
-raskitoma/raskitoma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# My Stats
+[![Raskitoma's github stats](https://github-readme-stats.vercel.app/api?username=raskitoma&show_icons=true&count_private=true&theme=radical&hide=stars)]
