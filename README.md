@@ -14,4 +14,3 @@
 [![GitHub Stars](https://img.shields.io/github/stars/raskitoma?logo=github&style=for-the-badge)](https://github.com/raskitoma)
 [![Twitter Followers](https://img.shields.io/twitter/follow/wantan?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/wantan)
 [![Twitch Status](https://img.shields.io/twitch/status/raskitoma?color=9147FF&logo=twitch&style=for-the-badge)](https://twitch.tv/raskitoma)
-[![Discord Invite](https://img.shields.io/discord/368210317764853760?color=4A55CC&label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/bcU2CcXS)
